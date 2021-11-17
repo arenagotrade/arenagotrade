@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f5e5170.chunk.css",
+    "main.js": "/static/js/main.f68a14e2.chunk.js",
+    "main.js.map": "/static/js/main.f68a14e2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f10a8daf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f10a8daf.js.map",
+    "static/js/2.6779a63a.chunk.js": "/static/js/2.6779a63a.chunk.js",
+    "static/js/2.6779a63a.chunk.js.map": "/static/js/2.6779a63a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4f5e5170.chunk.css.map": "/static/css/main.4f5e5170.chunk.css.map",
+    "static/js/2.6779a63a.chunk.js.LICENSE.txt": "/static/js/2.6779a63a.chunk.js.LICENSE.txt",
+    "static/media/AirPlane.6c991eed.png": "/static/media/AirPlane.6c991eed.png",
+    "static/media/Arena.087faf28.jpg": "/static/media/Arena.087faf28.jpg",
+    "static/media/ArenaIcon.5c9ade19.png": "/static/media/ArenaIcon.5c9ade19.png",
+    "static/media/ArenaIconDark.52be43c9.png": "/static/media/ArenaIconDark.52be43c9.png",
+    "static/media/Ativo.078082fa.svg": "/static/media/Ativo.078082fa.svg",
+    "static/media/CandleGraph.29ce2091.png": "/static/media/CandleGraph.29ce2091.png",
+    "static/media/Duracao.8f206a80.svg": "/static/media/Duracao.8f206a80.svg",
+    "static/media/Entrada.b9e9f4cd.svg": "/static/media/Entrada.b9e9f4cd.svg",
+    "static/media/FacebookLogo.171b77e6.svg": "/static/media/FacebookLogo.171b77e6.svg",
+    "static/media/HomeMockup.bdf9831d.png": "/static/media/HomeMockup.bdf9831d.png",
+    "static/media/InstragramLogo.e2506e6c.svg": "/static/media/InstragramLogo.e2506e6c.svg",
+    "static/media/Modalidade.5b8d049d.svg": "/static/media/Modalidade.5b8d049d.svg",
+    "static/media/Participantes.7dffa394.svg": "/static/media/Participantes.7dffa394.svg",
+    "static/media/Premio.e86e8c64.svg": "/static/media/Premio.e86e8c64.svg",
+    "static/media/RankingMockup.1a123696.png": "/static/media/RankingMockup.1a123696.png",
+    "static/media/Saldo.118026a4.svg": "/static/media/Saldo.118026a4.svg",
+    "static/media/SimulatorMockup.ce819a5f.png": "/static/media/SimulatorMockup.ce819a5f.png",
+    "static/media/TorneioMockup.510d881a.png": "/static/media/TorneioMockup.510d881a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f10a8daf.js",
+    "static/js/2.6779a63a.chunk.js",
+    "static/css/main.4f5e5170.chunk.css",
+    "static/js/main.f68a14e2.chunk.js"
+  ]
+}
